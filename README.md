@@ -1,6 +1,3 @@
-# Projects
-This repository exists solely so the TechOps Development Projects organization board can share the same labels and assignees for its issues.
-
 # The Process
 
 When a new project is given to the team, this is the process it should follow on the [Techops Development Projects Board](https://github.com/orgs/byuitechops/projects/5):
