@@ -3,11 +3,13 @@
 When a new project is given to the team, this is the process it should follow on the [Techops Development Projects Board](https://github.com/orgs/byuitechops/projects/5):
 
 1. Before any code or design is completed for the project, a new issue needs to be created on the board by adding a new note, then converting it into an issue:
-    - If it is an approved project, it should be added to the **Approved** column.
-    - If it is a potential project, it should be added to the **Investigation** column.
     - The issue should be created in this repository.
+    - If it is an approved project, it should be added to the **Approved** column.
+        - Create a new repository and put the link to it in the description of the new issue.
+    - If it is a potential project, it should be added to the **Investigation** column.
+        - You should not create a repository yet, but add it when it becomes approved.
     - If known, assign the issue to the developers who will be working on it.
-    - Give it one of the existing labels of *mini, small, medium,* or *large* based on the time the project will take (best guess):
+    - Give it one of the existing labels based on the time the project will take (best guess):
       - *mini*: less than a week
       - *small*: less than a month
       - *medium*: less than two months
