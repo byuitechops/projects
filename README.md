@@ -5,12 +5,12 @@ This repository exists solely so the TechOps Development Projects organization b
 
 When a new project is given to the team, this is the process it should follow on the [Techops Development Projects Board](https://github.com/orgs/byuitechops/projects/5):
 
-1. A new issue is created on the board by adding a new note, then converting it into an issue.
+1. Before any code or design is completed for the project, a new issue needs to be created on the board by adding a new note, then converting it into an issue:
     - If it is an approved project, it should be added to the **Approved** column.
     - If it is a potential project, it should be added to the **Investigation** column.
     - The issue should be created in this repository.
     - If known, assign the issue to the developers who will be working on it.
-    - Using a best guess, give it a label of *mini, small, medium,* or *large* based on the time the project will take:
+    - Give it one of the existing labels of *mini, small, medium,* or *large* based on the time the project will take (best guess):
       - *mini*: less than a week
       - *small*: less than a month
       - *medium*: less than two months
@@ -18,7 +18,7 @@ When a new project is given to the team, this is the process it should follow on
       
 2. When design has started on the project, move it into the **In Progress** column. It should remain there until the project is officially complete.
 
-3. If a project is completed, but requires ongoing maintenance (customers return on occasion to ask for a new feature, an update, or to report bugs), it should be given the *Ongoing Maintenance* label and all other labels should be removed. Move it into the **Ongoing Maintenance** column until a time when it no longer needs maintenance.
+3. If a project is completed, but requires ongoing maintenance (i.e. the Qualtrics Sync tool), it should be given the *Ongoing Maintenance* label and all other labels should be removed. Move it into the **Ongoing Maintenance** column until a time when it no longer needs maintenance.
 
 4. A project is complete and can be moved into the **Complete** column when:
     - It no longer requires maintenance
