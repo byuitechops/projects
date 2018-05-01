@@ -1,4 +1,4 @@
-# The Project Process
+# The Project Board Process
 
 When a new project is given to the team, this is the process it should follow on the [Techops Development Projects Board](https://github.com/orgs/byuitechops/projects/5):
 
